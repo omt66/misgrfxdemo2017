@@ -8,7 +8,7 @@ package grfxdemo20170123;
 import java.awt.Graphics;
 
 /**
- *
+ * Models a simple circle.
  * @author Ogun otigli@gmail.com
  */
 public class Circle extends UIElement {
